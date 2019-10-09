@@ -1,0 +1,11 @@
+# cat requirements.txt
+
+pandas==0.25.1
+numpy
+lightgbm
+datetime
+xlrd
+xgboost
+sklearn
+seaborn
+dill
